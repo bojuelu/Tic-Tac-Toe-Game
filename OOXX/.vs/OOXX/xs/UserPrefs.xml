@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_OOXX/GameScript/GameAI.cs">
+    <Files>
+      <File FileName="Assets/_OOXX/GameScript/GameFlow.cs" Line="319" Column="56" />
+      <File FileName="Assets/_OOXX/GameScript/Player.cs" Line="29" Column="6" />
+      <File FileName="Assets/_OOXX/GameScript/GameRule.cs" Line="26" Column="17" />
+      <File FileName="Assets/_OOXX/GameScript/GameAI.cs" Line="101" Column="35" />
+      <File FileName="Assets/_OOXX/GameScript/UI/BattleField.cs" Line="17" Column="26" />
+      <File FileName="Assets/_OOXX/GameScript/UI/GameResult.cs" Line="9" Column="35" />
+      <File FileName="Assets/_OOXX/GameScript/UI/SelectParty.cs" Line="31" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
